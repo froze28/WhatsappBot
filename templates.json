@@ -1,0 +1,17 @@
+[
+  {
+    "name": "plans",
+    "keywords": ["plans"],
+    "response": "Available Services:\n1. LIC Insurance\n2. Star Health Insurance\n3. SIP & Mutual Funds"
+  },
+  {
+    "name": "lic",
+    "keywords": ["lic"],
+    "response": "Please share:\n- Age\n- Occupation\n- Requirement"
+  },
+  {
+    "name": "health",
+    "keywords": ["health"],
+    "response": "Please share:\n- Age\n- City\n- Family Members"
+  }
+]
